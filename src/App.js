@@ -45,8 +45,8 @@ function App() {
         // console.log('this is the ffff id', post.id)
         return (
           <React.Fragment key={post.id}>
-            {/* <Post post={post} loadPost={loadPosts} /> */}
-            <GetData />
+            <Post post={post} loadPost={loadPosts} />
+            {/* <GetData /> */}
             <Update />
           </React.Fragment>
         );
