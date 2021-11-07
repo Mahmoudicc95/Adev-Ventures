@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# CRUD functions
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Post Model from GoRest API using React and Axios.
 
 ## Available Scripts
 
